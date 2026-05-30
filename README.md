@@ -48,13 +48,6 @@ todoapp/
 └── README.md
 ```
 
-## Installation
-
-### Clone Repository
-
-```bash
-git clone <your-repository-url>
-```
 
 #### Run Frontend and Backend Together start
 
